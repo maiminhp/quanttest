@@ -1,3 +1,5 @@
+# Quantitative Research test
+
 October 13, 2016
 
 In Fall 2016, I applied to a quant trading firm (Jane Street). They had me take a HackerRank test for which I was told it was going to be on 'basic math and probability'. To me, these questions require practice so I thought I would post these questions here as sample questions so that future interviewees can practice and be more prepared than I was.
